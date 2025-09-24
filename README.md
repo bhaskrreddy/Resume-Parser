@@ -113,7 +113,7 @@ It will use an LLM to extract the same schema, write JSON to output_dir, and pri
 If your LLM flow needs an API key (e.g., Groq), set it as an environment variable before launching Jupyter:
 
 export GROQ_API_KEY="your_key_here"   # Linux/macOS
-# setx GROQ_API_KEY "your_key_here"   # Windows (new shell after setx)
+# set GROQ_API_KEY "your_key_here"   # Windows (new shell after setx)
 
 7) Outputs
 
