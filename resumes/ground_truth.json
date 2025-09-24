@@ -1,0 +1,44 @@
+{
+  "resume_alice.pdf": {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "skills": [
+      "python",
+      "sql",
+      "pandas",
+      "numpy",
+      "machine learning",
+      "scikit-learn",
+      "docker",
+      "aws"
+    ]
+  },
+  "resume_brian.pdf": {
+    "name": "Brian Lee",
+    "email": "brian.lee@example.com",
+    "skills": [
+      "java",
+      "spring boot",
+      "postgresql",
+      "docker",
+      "kubernetes",
+      "aws",
+      "microservices",
+      "linux"
+    ]
+  },
+  "resume_carmen.pdf": {
+    "name": "Carmen Diaz",
+    "email": "carmen.diaz@example.com",
+    "skills": [
+      "javascript",
+      "react",
+      "nodejs",
+      "express",
+      "mongodb",
+      "typescript",
+      "git",
+      "azure"
+    ]
+  }
+}
